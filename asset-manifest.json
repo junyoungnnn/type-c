@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/tpye-c/static/js/main.9d8c874e.js",
-    "index.html": "/tpye-c/index.html",
-    "main.9d8c874e.js.map": "/tpye-c/static/js/main.9d8c874e.js.map"
+    "main.js": "/type-c/static/js/main.191509db.js",
+    "index.html": "/type-c/index.html",
+    "main.191509db.js.map": "/type-c/static/js/main.191509db.js.map"
   },
   "entrypoints": [
-    "static/js/main.9d8c874e.js"
+    "static/js/main.191509db.js"
   ]
 }
